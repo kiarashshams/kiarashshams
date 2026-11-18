@@ -11,7 +11,7 @@
 
 <p align="center">   <a href="https://github.com/kiarashshams">     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />   </a> </p>
 
-About Me
+### About Me
 
 I'm a Computer Science student at the University of Messina, interested in software engineering, intelligent systems, and building practical applications.
 
@@ -34,7 +34,7 @@ I'm a Computer Science student at the University of Messina, interested in softw
 | Technology | Proficiency |
 |:---|:---|
 | Python | Advanced |
-| SQL | Advanced |
+| MySQL | Advanced |
 | C | Intermediate – Upper |
 | PHP | Intermediate |
 | JavaScript | Beginner |
@@ -62,41 +62,63 @@ I'm a Computer Science student at the University of Messina, interested in softw
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 Symbolic Knowledge Demo</h3>
-      <p>
-        A project exploring symbolic knowledge representation
-        and logical reasoning.
-      </p>
-      <a href="https://github.com/kiarashshams/Symbolic-knowledge-Demo">
-        View Repository →
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🤖 Knowledge Distillation</h3>
-      <p>
-        Exploring knowledge distillation techniques
-        and intelligent systems.
-      </p>
-      <a href="https://github.com/kiarashshams/KD-Project">
-        View Repository →
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>🍕 Pizza Shop</h3>
-      <p>
-        A web development project focused on building
-        a pizza shop website.
-      </p>
-      <a href="https://github.com/kiarashshams/PizzashopConclusion">
-        View Repository →
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
 
+<h3>🧠 Symbolic Knowledge Demo</h3>
+
+<p>
+Exploring symbolic knowledge representation,
+logical reasoning and intelligent systems.
+</p>
+
+<strong>Python</strong>
+
+<br><br>
+
+<a href="https://github.com/kiarashshams/Symbolic-knowledge-Demo">
+View Project →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🤖 Knowledge Distillation</h3>
+
+<p>
+Exploring knowledge distillation techniques
+and intelligent systems.
+</p>
+
+<br><br>
+
+<a href="https://github.com/kiarashshams/KD-Project">
+View Project →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🍕 Pizza Shop</h3>
+
+<p>
+A web development project focused on
+building a pizza shop website.
+</p>
+
+<strong>PHP</strong>
+
+<br><br>
+
+<a href="https://github.com/kiarashshams/PizzashopConclusion">
+View Project →
+</a>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
@@ -107,4 +129,21 @@ I'm a Computer Science student at the University of Messina, interested in softw
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiarashshams&theme=github-compact&hide_border=true" />
+</p>
+
+---
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:mohammadhossein.shams2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/kiarashshams">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Learning continuously. Building thoughtfully. Improving every day.</i>
 </p>
