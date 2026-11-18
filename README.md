@@ -13,11 +13,11 @@
 
 ### About Me
 
-I'm a Computer Science student at the University of Messina, interested in software engineering, intelligent systems, and building practical applications.
+I'm a Computer Science student at the University of Messina, interested in IoT, intelligent systems, and building practical applications.
 
 🎓 Computer Science student at the University of Messina, Italy.
 
-💻 Interested in software development and software engineering.
+💻 Interested in IoT devices and software engineering.
 
 🤖 Exploring Artificial Intelligence and Machine Learning.
 
