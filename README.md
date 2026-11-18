@@ -91,3 +91,15 @@ I'm a Computer Science student at the University of Messina, interested in softw
       </a>
     </td>
   </tr>
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kiarashshams&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiarashshams&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiarashshams&theme=github-compact&hide_border=true" />
+</p>
