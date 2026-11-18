@@ -20,16 +20,40 @@ I'm a Computer Science student at the University of Messina, interested in softw
 
 🚀 Continuously learning and building new things.
 
-Technical Skills
+### 💻 Programming Languages
 
-Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,c,php,js,java" />
+</p>
 
-<p>   <img src="https://skillicons.dev/icons?i=java,python,js,ts,php" /> </p>
+| Technology | Proficiency |
+|:---|:---|
+| Python | Advanced |
+| SQL | Advanced |
+| C | Intermediate – Upper |
+| PHP | Intermediate |
+| JavaScript | Beginner |
+| Java | Currently Learning |
 
-Frameworks & Tools
+### ⚙️ Backend & Databases
 
-<p>   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,docker,git,github,idea" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
 
+| Technology | Proficiency |
+|:---|:---|
+| MongoDB | Advanced |
+| Node.js | Intermediate |
+
+### 🌱 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,arduino" />
+</p>
+
+- Object-Oriented Programming (Java)
+- Arduino IDE
 Featured Projects
 
 Project
