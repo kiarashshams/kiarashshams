@@ -23,7 +23,7 @@ I'm a Computer Science student at the University of Messina, interested in softw
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,c,php,js,java" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,php,js,java" />
 </p>
 
 | Technology | Proficiency |
