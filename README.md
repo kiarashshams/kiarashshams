@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Kiarash Shams - Developer Banner">
+</p>
+
+<br>
 <h1 align="center">Kiarash Shams</h1>
 
 <h3 align="center">Computer Science Student & Developer</h3>
