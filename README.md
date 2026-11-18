@@ -54,28 +54,40 @@ I'm a Computer Science student at the University of Messina, interested in softw
 
 - Object-Oriented Programming (Java)
 - Arduino IDE
-Featured Projects
+## 🚀 Featured Projects
 
-Project
-
-Description
-
-Symbolic Knowledge Demo
-
-Symbolic knowledge representation and reasoning
-
-KD Project
-
-Knowledge distillation and intelligent systems
-
-Pizza Shop
-
-Web development project
-
-GitHub Statistics
-
-<p align="center">   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiarashshams&show_icons=true&hide_border=true&rank_icon=github" />   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiarashshams&layout=compact&hide_border=true" /> </p>
-
-<p align="center">
-  <i>Learning continuously. Building thoughtfully. Improving every day.</i>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Symbolic Knowledge Demo</h3>
+      <p>
+        A project exploring symbolic knowledge representation
+        and logical reasoning.
+      </p>
+      <a href="https://github.com/kiarashshams/Symbolic-knowledge-Demo">
+        View Repository →
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🤖 Knowledge Distillation</h3>
+      <p>
+        Exploring knowledge distillation techniques
+        and intelligent systems.
+      </p>
+      <a href="https://github.com/kiarashshams/KD-Project">
+        View Repository →
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>🍕 Pizza Shop</h3>
+      <p>
+        A web development project focused on building
+        a pizza shop website.
+      </p>
+      <a href="https://github.com/kiarashshams/PizzashopConclusion">
+        View Repository →
+      </a>
+    </td>
+  </tr>
